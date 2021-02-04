@@ -1,4 +1,4 @@
-# Shopping cart and calculations
+# ShoppingCart and Calculations
 Different assertion tests on shopping cart and calculations.
 
 ## Technologies Used
@@ -19,4 +19,4 @@ npm start
 
 ## Img
 
-<img alt="Screen shot of the terminal showing all tests passing" src="https://github.com/lwrgithub/shoping-cart-and-calculations/blob/master/tests-pass.png" />
+<img alt="Screen shot of the terminal showing all tests passing" src="https://github.com/lwrgithub/shoppingcart-and-calculations/blob/master/tests-pass.png" />
